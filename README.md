@@ -20,7 +20,7 @@ Este proyecto consiste en un sistema de información que permite a la Universida
 - Manejo de fotos de los aspirantes en el servidor
 - Generación y descarga de un archivo CSV con los datos de los aspirantes
 - Uso de Bootstrap para el diseño de la interfaz
-- Fecha límite de entrega: Viernes 21 de abril a las 7 PM
+- Fecha límite de entrega: Viernes 21 de abril a las 12 PM
 
 ## Colaboradores
 - Santiago Reina: Diseño y maquetación de la interfaz de usuario
